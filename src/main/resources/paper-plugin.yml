@@ -1,0 +1,6 @@
+name: mixins
+version: '${version}'
+main: zip.sodium.mixins.Mixins
+api-version: '1.20'
+bootstrapper: zip.sodium.mixins.bootstrapper.MixinBootstrapper
+load: STARTUP
